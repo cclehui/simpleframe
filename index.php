@@ -6,7 +6,7 @@
 
 	define('SITE_PATH',realpath(dirname(__FILE__)).'/');
 	
-	echo "sssssssssssssssssssssssssssss";
+	echo "sssssddddddddd";
 
 	/*Require necessary files.*/
 	require_once(SITE_PATH.'application/request.php');
