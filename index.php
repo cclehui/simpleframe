@@ -3,7 +3,7 @@
 	 * PHP Basic MVC Framework Part 7 - Router
 	 * By John White (@Jontyy)
 	 */
-
+	echo "aaaaaaaaaaaaaaaaaaa";
 	define('SITE_PATH',realpath(dirname(__FILE__)).'/');
 	
 	echo "sssssddddddddd";
