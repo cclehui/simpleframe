@@ -6,7 +6,7 @@
 	echo "aaaaaaaaaaaaaaaaaaa";
 	define('SITE_PATH',realpath(dirname(__FILE__)).'/');
 	
-	echo "sssssddddddddd";
+	echo "";
 	echo "ddsssss";
 
 	/*Require necessary files.*/
